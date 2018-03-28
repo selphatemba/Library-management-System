@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="libMIS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="libMIS.war">
+      <element id="artifact" artifact-name="libMIS:war exploded" />
+    </root>
+  </artifact>
+</component>
